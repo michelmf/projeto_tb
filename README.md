@@ -1,6 +1,6 @@
 # Projeto Final
 
-Andamentos, arquivos e anotações sobre o projeto final.
+Página contendo todas as informações, dados, análises e algoritmos implementados durante o trabalho de conclusão de curso.
 
 ## Reunião do dia 26/06/2018
 
