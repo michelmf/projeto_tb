@@ -2,6 +2,12 @@
 
 Andamentos, arquivos e anotações sobre o projeto final.
 
+## Reunião do dia 26/06/2018
+
+### Discussões
+
+### Tarefas
+
 ## Reunião do dia 19/06/2018
 
 ### Discussões
@@ -13,12 +19,12 @@ Andamentos, arquivos e anotações sobre o projeto final.
  - Relevância de features;
  - Testes de hipóteses;
 
-### Tarefas a fazer:
+### Tarefas
 
  - [ ] Mineração dos dados da base que se encontram no spss
  - [ ] Análise Exploratória dos dados da base de triagem de pacientes
 
-## Reunião do dia 26/06/2018
+
 
 
 
