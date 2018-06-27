@@ -22,7 +22,7 @@ O quadro de atividades a serem realizadas pode ser visto na aba *Projects*.
  	- Procurar sobre trabalhos anteriores de orientados do Seixas. Buscar por Dantas;
 
  - Relevância de features:
- 	- Métodos de  relevância de features. Pesquisar no livro da Japowicz e procurar referências, wrappers, etcs;
+ 	- Métodos de  relevância de features. Pesquisar no livro da Japkowicz e procurar referências, wrappers, etcs;
 
  - Teste de hipóteses:
  	- Aprender sobre como fazer os testes de hipóteses. Pesquisar !
