@@ -28,6 +28,18 @@ O quadro de atividades a serem realizadas pode ser visto na aba *Projects*.
  	- Aprender sobre como fazer os testes de hipóteses. Pesquisar !
 
 
+## Referências bibliográficas
+
+Referências bibliográficas pesquisadas/estudadas durante o projeto:
+
+
+1. Maaten LV, Hinton G. Visualizing data using t-SNE. Journal of machine learning research. 2008;9(Nov):2579-605. [Link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjF8_Cn_vTbAhVDk5AKHcPVBg4QFghWMAM&url=http%3A%2F%2Fwww.jmlr.org%2Fpapers%2Fvolume9%2Fvandermaaten08a%2Fvandermaaten08a.pdf&usg=AOvVaw11Jgz7vuRT-PbbxSHmn6F_).
+
+2. Glas, A.S., Lijmer, J.G., Prins, M.H., Bonsel, G.J. and Bossuyt, P.M., 2003. The diagnostic odds ratio: a single indicator of test performance. Journal of clinical epidemiology, 56(11), pp.1129-1135. [Link](http://www.academia.edu/download/45832229/The_diagnostic_odds_ratio_A_single_indic20160521-14298-82yp82.pdf).
+
+3. 
+
+
 
 
 
