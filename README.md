@@ -30,11 +30,23 @@ O quadro de atividades a serem realizadas pode ser visto na aba *Projects*.
 
 ## Referências bibliográficas
 
+### t-SNE
+
 1. Maaten LV, Hinton G. **Visualizing data using t-SNE**. Journal of machine learning research. 2008;9(Nov):2579-605. [Link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjF8_Cn_vTbAhVDk5AKHcPVBg4QFghWMAM&url=http%3A%2F%2Fwww.jmlr.org%2Fpapers%2Fvolume9%2Fvandermaaten08a%2Fvandermaaten08a.pdf&usg=AOvVaw11Jgz7vuRT-PbbxSHmn6F_).
 
-2. Glas, A.S., Lijmer, J.G., Prins, M.H., Bonsel, G.J. and Bossuyt, P.M., 2003. **The diagnostic odds ratio: a single indicator of test performance**. Journal of clinical epidemiology, 56(11), pp.1129-1135. [Link](http://www.academia.edu/download/45832229/The_diagnostic_odds_ratio_A_single_indic20160521-14298-82yp82.pdf).
+2. https://www.oreilly.com/learning/an-illustrated-introduction-to-the-t-sne-algorithm
 
-3. 
+3. https://www.displayr.com/using-t-sne-to-visualize-data-before-prediction/?utm_source=Quora&utm_medium=How%20does%20t-SNE%20work%20in%20simple%20words%3F&utm_campaign=t-sne
+
+4. https://distill.pub/2016/misread-tsne/
+
+5. https://lvdmaaten.github.io/tsne/
+
+### Indicadores/métricas
+
+1. Glas, A.S., Lijmer, J.G., Prins, M.H., Bonsel, G.J. and Bossuyt, P.M., 2003. **The diagnostic odds ratio: a single indicator of test performance**. Journal of clinical epidemiology, 56(11), pp.1129-1135. [Link](http://www.academia.edu/download/45832229/The_diagnostic_odds_ratio_A_single_indic20160521-14298-82yp82.pdf).
+
+2.  
 
 
 
