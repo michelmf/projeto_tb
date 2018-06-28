@@ -2,7 +2,7 @@
 
 Página contendo todas as informações, dados, análises e algoritmos implementados durante o trabalho de conclusão de curso.
 
-O quadro de atividades a serem realizadas pode ser visto na aba *Projects*. 
+As tarefas em execução, dúvidas e outros podem ser vistos na aba *Projects*. 
 
 ## Reunião do dia 26/06/2018
 
