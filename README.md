@@ -6,8 +6,9 @@ As tarefas em execução, dúvidas e outros podem ser vistos na aba *Projects*.
 
 ## Overleaf
 
-[Link para o documento](https://v2.overleaf.com/read/bybxmwhxrwjx) **Projeto de Graduação**
-[Link para o documento](https://v2.overleaf.com/read/npsbksqkfnpk) **Proposta de Projeto de Graduação**
+[Link para o documento](https://v2.overleaf.com/read/bybxmwhxrwjx) **Projeto de Graduação**.
+
+[Link para o documento](https://v2.overleaf.com/read/npsbksqkfnpk) **Proposta de Projeto de Graduação**.
 
 ## Reunião do dia 26/06/2018
 
