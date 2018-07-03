@@ -72,6 +72,7 @@ Obs: Polls conducted at the same website (KDNuggets) in 2002, 2004, 2007 and 201
 Obs: A review and critique of data mining process models in 2009 called the CRISP-DM the "de facto standard for developing data mining and knowledge discovery projects."[6] Other reviews of CRISP-DM and data mining process models include Kurgan and Musilek's 2006 review,[8] and Azevedo and Santos' 2008 comparison of CRISP-DM and SEMMA.[9] Efforts to update the methodology started in 2006, but have As of 30 June 2015 not led to a new version, and the "Special Interest Group" (SIG) responsible along with the website has long disappeared (see History of CRISP-DM).
 
 5. **Team Data Science Process Documentation**.[Link](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/)
+
 Obs: Github com a metodologia, pastas e arquivos: https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/roles-tasks.md
 
 ### t-SNE
