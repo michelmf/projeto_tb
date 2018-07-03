@@ -36,6 +36,25 @@ Link para o documento [**Proposta de Projeto de Graduação**](https://v2.overle
 
 ## Referências bibliográficas
 
+### Metodologias de Data Mining
+
+1. **KDD - Extração de conhecimento**.[Link](https://pt.wikipedia.org/wiki/Extra%C3%A7%C3%A3o_de_conhecimento)
+
+2. Azevedo, Ana Isabel Rojão Lourenço, and Manuel Filipe Santos. **"KDD, SEMMA and CRISP-DM: a parallel overview." IADS-DM (2008)**.[Link](https://pdfs.semanticscholar.org/7dfe/3bc6035da527deaa72007a27cef94047a7f9.pdf)
+
+3. **SEMMA : Sample, Explore, Modify, Model and Assess**.[Link](https://en.wikipedia.org/wiki/SEMMA)
+
+Obs: Polls conducted at the same website (KDNuggets) in 2002, 2004, 2007 and 2014 show that it was the leading methodology used by industry data miners who decided to respond to the survey.[10][11][12][15] The only other data mining approach named in these polls was SEMMA. However, SAS Institute clearly states that SEMMA is not a data mining methodology, but rather a "logical organization of the functional toolset of SAS Enterprise Miner."
+ 
+4. **CRISP-DM**.[Link](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) 
+
+Obs: A review and critique of data mining process models in 2009 called the CRISP-DM the "de facto standard for developing data mining and knowledge discovery projects."[6] Other reviews of CRISP-DM and data mining process models include Kurgan and Musilek's 2006 review,[8] and Azevedo and Santos' 2008 comparison of CRISP-DM and SEMMA.[9] Efforts to update the methodology started in 2006, but have As of 30 June 2015 not led to a new version, and the "Special Interest Group" (SIG) responsible along with the website has long disappeared (see History of CRISP-DM).
+
+5. **Team Data Science Process Documentation**.[Link](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/)
+
+6. **Team Data Science Process : Roles and Tasks**.[Link](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/roles-tasks.md)
+
+
 ### t-SNE
 
 1. Maaten LV, Hinton G. **Visualizing data using t-SNE**. Journal of machine learning research. 2008;9(Nov):2579-605. [Link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjF8_Cn_vTbAhVDk5AKHcPVBg4QFghWMAM&url=http%3A%2F%2Fwww.jmlr.org%2Fpapers%2Fvolume9%2Fvandermaaten08a%2Fvandermaaten08a.pdf&usg=AOvVaw11Jgz7vuRT-PbbxSHmn6F_).
