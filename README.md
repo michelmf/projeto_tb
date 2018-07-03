@@ -18,7 +18,7 @@ A estrutura das pastas segue o seguinte layout:
 	 ├── Data_exploration                 
 	 ├── Modeling
 	 ├── Deployment
-    └── README.md 			# Informações gerais
+    └── README.md 				# Informações gerais
 
 
 As tarefas em execução, dúvidas e outros podem ser vistos na aba *Projects*. 
