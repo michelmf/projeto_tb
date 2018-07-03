@@ -13,7 +13,8 @@ A estrutura das pastas segue o seguinte layout:
     ├── Docs 				# Documentação gerada durante o projeto
      ├── Project
      ├── Data Report
-     ├── Model                
+     ├── Model
+     ├── Anotações
     ├── Code 				# Códigos criados durante o projeto
 	 ├── Data_exploration                 
 	 ├── Modeling
