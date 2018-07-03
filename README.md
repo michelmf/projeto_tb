@@ -6,19 +6,23 @@ Página contendo todas as informações, dados, análises e algoritmos implement
 A estrutura das pastas segue o seguinte layout:
 
     .
-    ├── Data                    # Pasta contendo os dados do problema
-    	├── Raw   
-    	├── Processed
-    	├── For_Modelling                 
-    ├── Docs   					# Documentação gerada durante o projeto
-    	├── Project
-    	├── Data Report
-    	├── Model                 
-    ├── Code                    # Códigos criados durante o projeto
-    	├── Data_exploration                 
-    	├── Modeling
-    	├── Deployment
-    └── README.md 				# Informações gerais
+    ├── Data                # Pasta contendo os dados do problema
+     ├── Raw   
+     ├── Processed
+     ├── For_Modelling 
+    |                
+    ├── Docs
+     |  					# Documentação gerada durante o projeto
+     ├── Project
+     ├── Data Report
+     ├── Model  
+    |               
+    ├── Code                # Códigos criados durante o projeto
+	 ├── Data_exploration                 
+	 ├── Modeling
+	 ├── Deployment
+    |
+    └── README.md 			# Informações gerais
 
 
 As tarefas em execução, dúvidas e outros podem ser vistos na aba *Projects*. 
