@@ -6,16 +6,15 @@ Página contendo todas as informações, dados, análises e algoritmos implement
 A estrutura das pastas segue o seguinte layout:
 
     .
-    ├── Data                # Pasta contendo os dados do problema
+    ├── Data 				# Pasta contendo os dados do problema
      ├── Raw   
      ├── Processed
      ├── For_Modelling                 
-    ├── Docs
-     |  					# Documentação gerada durante o projeto
+    ├── Docs 				# Documentação gerada durante o projeto
      ├── Project
      ├── Data Report
      ├── Model                
-    ├── Code                # Códigos criados durante o projeto
+    ├── Code 				# Códigos criados durante o projeto
 	 ├── Data_exploration                 
 	 ├── Modeling
 	 ├── Deployment
