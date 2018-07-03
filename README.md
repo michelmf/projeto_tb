@@ -9,7 +9,7 @@ A estrutura das pastas segue o seguinte layout:
     ├── Data 				# Pasta contendo os dados do problema
      ├── Raw   
      ├── Processed
-     ├── For_Modelling                 
+     ├── For_Modeling                 
     ├── Docs 				# Documentação gerada durante o projeto
      ├── Project
      ├── Data Report
