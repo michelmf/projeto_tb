@@ -76,7 +76,7 @@ Obs: Github com a metodologia, pastas e arquivos: https://github.com/Azure/Micro
 
 1. Glas, A.S., Lijmer, J.G., Prins, M.H., Bonsel, G.J. and Bossuyt, P.M., 2003. **The diagnostic odds ratio: a single indicator of test performance**. Journal of clinical epidemiology, 56(11), pp.1129-1135. [Link](http://www.academia.edu/download/45832229/The_diagnostic_odds_ratio_A_single_indic20160521-14298-82yp82.pdf).
 
-2. 
+2. Prati, R. C., G. E. A. P. A. Batista, and M. C. Monard. "Curvas ROC para avaliação de classificadores." Revista IEEE América Latina 6.2 (2008): 215-222. [Link](http://conteudo.icmc.usp.br/pessoas/gbatista/files/ieee_la2008.pdf).
 
 
 
