@@ -2,28 +2,7 @@
 
 Página contendo todas as informações, dados, análises e algoritmos implementados durante o trabalho de conclusão de curso.
 
-
-A estrutura das pastas segue o seguinte layout:
-
-    .
-    ├── Data 				# Pasta contendo os dados do problema
-     ├── Raw   
-     ├── Processed
-     ├── For_Modeling                 
-    ├── Docs 				# Documentação gerada durante o projeto
-     ├── Project
-     ├── Data Report
-     ├── Model
-     ├── Anotações
-    ├── Code 				# Códigos criados durante o projeto
-	 ├── Data_exploration                 
-	 ├── Modeling
-	 ├── Deployment
-    └── README.md 				# Informações gerais
-
-
 As tarefas em execução, dúvidas e outros podem ser vistos na aba *Projects*. 
-
 
 ## Overleaf
 
@@ -31,7 +10,7 @@ Link para o documento [**Projeto de Graduação**](https://v2.overleaf.com/read/
 
 Link para o documento [**Proposta de Projeto de Graduação**](https://v2.overleaf.com/read/npsbksqkfnpk).
 
-## Reunião do dia 26/06/2018
+## Reunião do dia 10/07/2018
 
 
 ## Reunião do dia 19/06/2018
@@ -56,6 +35,18 @@ Link para o documento [**Proposta de Projeto de Graduação**](https://v2.overle
 
 
 ## Referências bibliográficas
+
+### Tuberculose
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
 
 ### Metodologias de Data Mining
 
@@ -91,5 +82,7 @@ Obs: Github com a metodologia, pastas e arquivos: https://github.com/Azure/Micro
 
 1. Glas, A.S., Lijmer, J.G., Prins, M.H., Bonsel, G.J. and Bossuyt, P.M., 2003. **The diagnostic odds ratio: a single indicator of test performance**. Journal of clinical epidemiology, 56(11), pp.1129-1135. [Link](http://www.academia.edu/download/45832229/The_diagnostic_odds_ratio_A_single_indic20160521-14298-82yp82.pdf).
 
-2.  
+2. 
+
+
 
