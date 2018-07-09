@@ -38,15 +38,9 @@ Link para o documento [**Proposta de Projeto de Graduação**](https://v2.overle
 
 ### Tuberculose
 
-1. 
+1. World Health Organization : Global tuberculosis report 2017. [Link](http://apps.who.int/iris/bitstream/10665/259366/1/9789241565516-eng.pdf?ua=1)
 
-2. 
-
-3. 
-
-4. 
-
-5. 
+2. Ministério da Saúde : Manual de Recomendações para o controle da Tuberculose no Brasil. [Link](http://bvsms.saude.gov.br/bvs/publicacoes/manual_recomendacoes_controle_tuberculose_brasil.pdf)
 
 ### Metodologias de Data Mining
 
