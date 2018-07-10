@@ -18,6 +18,8 @@ Link para o documento [**Proposta de Projeto de Graduação**](https://v2.overle
 
 2. Ministério da Saúde : Manual de Recomendações para o controle da Tuberculose no Brasil. [Link](http://bvsms.saude.gov.br/bvs/publicacoes/manual_recomendacoes_controle_tuberculose_brasil.pdf)
 
+3. The top 10 causes of death. [Link](http://www.who.int/en/news-room/fact-sheets/detail/the-top-10-causes-of-death)
+
 ### Metodologias de Data Mining
 
 1. **KDD - Extração de conhecimento**.[Link](https://pt.wikipedia.org/wiki/Extra%C3%A7%C3%A3o_de_conhecimento)
