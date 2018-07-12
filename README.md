@@ -56,5 +56,9 @@ Obs: Github com a metodologia, pastas e arquivos: https://github.com/Azure/Micro
 
 2. Prati, R. C., G. E. A. P. A. Batista, and M. C. Monard. "Curvas ROC para avaliação de classificadores." Revista IEEE América Latina 6.2 (2008): 215-222. [Link](http://conteudo.icmc.usp.br/pessoas/gbatista/files/ieee_la2008.pdf).
 
+### Semi-supervised Learning
 
+1. Chapelle, Olivier, Bernhard Scholkopf, and Alexander Zien. "Semi-supervised learning (chapelle, o. et al., eds.; 2006)[book reviews]." IEEE Transactions on Neural Networks 20.3 (2009): 542-542.
+
+2. 
 
