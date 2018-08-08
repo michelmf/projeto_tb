@@ -2,8 +2,6 @@
 
 Página contendo todas as informações, dados, análises e algoritmos implementados durante o trabalho de conclusão de curso.
 
-As tarefas em execução, dúvidas e outros podem ser vistos na aba *Projects*. 
-
 ## Overleaf
 
 Link para o documento [**Projeto de Graduação**](https://v2.overleaf.com/read/bybxmwhxrwjx). 
