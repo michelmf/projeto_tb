@@ -7,5 +7,6 @@ A planilha de dados utilizada nas análises do trabalho: labels.csv
 ## Resumo dos dados 
 
 Quantidade de atributos: 281
+
 Quantidade de exemplos : 4381
 
