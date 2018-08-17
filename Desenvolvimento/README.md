@@ -10,10 +10,10 @@ Escrever...
 
 Foram utilizados as seguintes técnicas para a seleção de features do trabalho:
 
-- Teste de independência do Chi Quadrado[Link](https://onlinecourses.science.psu.edu/stat500/node/56/).<br>
-- Informação mútua[Link]().
-- Regressão Logística Univariada[Link]().
-- Regressão Logística Multivariada[Link]().
+- Teste de independência do Chi Quadrado[(Link)](https://onlinecourses.science.psu.edu/stat500/node/56/).<br>
+- Informação mútua [Link](https://thuijskens.github.io/2017/10/07/feature-selection/).
+- Regressão Logística Univariada [Link]().
+- Regressão Logística Multivariada [(Link)]().
 
 ## Teste de Modelos
 
