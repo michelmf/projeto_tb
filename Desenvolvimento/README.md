@@ -1,21 +1,19 @@
 # Desenvolvimento
 
-Os notebooks contendo o desenvolvimento d
-
+Nesta página encontram-se os notebooks desenvolvidos durante o decorrer do projeto. 
 
 ## Análise exploratória de dados
 
-O notebook 
+Escrever...
 
 ## Seleção de features
 
 Foram utilizados as seguintes técnicas para a seleção de features do trabalho:
 
-- Teste de independência do Chi Quadrado [LINK]
-
-- 
-
-
+- Teste de independência do Chi Quadrado[Link](https://onlinecourses.science.psu.edu/stat500/node/56/).<br>
+- Informação mútua[Link]().
+- Regressão Logística Univariada[Link]().
+- Regressão Logística Multivariada[Link]().
 
 ## Teste de Modelos
 
@@ -27,4 +25,4 @@ Os algoritmos baseados em aprendizado supervisionado foram os seguintes:
 - Random Forest;
 - Decision Trees.
 
-Alguns modelos foram utilizados, com a finlidade de verificar a eficácia do processo de seleção de atributos. 
+Foram aplicados os algoritmos acima para cada subconjunto de variáveis obtidas com os procedimentos de seleção de features. Também foram avaliados os efeitos do desbalanceamento do conjunto de dados. Para o balanceamento, utilizou-se o algoritmo SMOTE Vanilla (Synthetic Minority Oversampling Technique)[Link](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume16/chawla02a-html/chawla2002.html).
