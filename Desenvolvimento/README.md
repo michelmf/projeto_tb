@@ -23,6 +23,7 @@ Os algoritmos baseados em aprendizado supervisionado foram os seguintes:
 - Support Vector Machines;
 - Regressão Logística;
 - Random Forest;
+- K-nearest Neighbors;
 - Decision Trees.
 
 Foram aplicados os algoritmos acima para cada subconjunto de variáveis obtidas com os procedimentos de seleção de features. Também foram avaliados os efeitos do desbalanceamento do conjunto de dados. Para o balanceamento, utilizou-se o algoritmo SMOTE Vanilla (Synthetic Minority Oversampling Technique) [(Link)](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume16/chawla02a-html/chawla2002.html).
