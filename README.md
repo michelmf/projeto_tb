@@ -16,6 +16,10 @@ Este trabalho propõe analisar o desempenho de técnicas baseadas em aprendizado
 
 Palavras-Chave: Detecção de tuberculose, Aprendizado de Máquina, Aprendizado Supervisionado, Sistemas de Apoio à Decisão.
 
+# Atualizações
+
+Este projeto foi realizado no ano de 2018, e desejo incorporar novas abordagens e incorporá-las aqui. 
+
 ## Documents
 
 Link to the project (in portuguese): [**Projeto de Graduação**](http://monografias.poli.ufrj.br/monografiadownload.php?farquivo=monopoli10028305.pdf&fcodigo=4030). 
