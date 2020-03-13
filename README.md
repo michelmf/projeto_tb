@@ -8,7 +8,7 @@ This work proposes to analyze the performance of techniques based on supervised 
 
 ## Documents
 
-Link to the project (in portuguese) [**Projeto de Graduação**](http://monografias.poli.ufrj.br/monografiadownload.php?farquivo=monopoli10028305.pdf&fcodigo=4030). 
+Link to the project (in portuguese): [**Projeto de Graduação**](http://monografias.poli.ufrj.br/monografiadownload.php?farquivo=monopoli10028305.pdf&fcodigo=4030). 
 
 
 
