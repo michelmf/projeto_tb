@@ -1,6 +1,6 @@
 # Introdução
 
-Projeto com o título "Aprendizado de máquina aplicado ao suporte à triagem de pacientes suspeitos de tuberculose pulmonar" desenvolvido como parte dos requisitos necessários à obtenção do título de Engenheiro.
+Projeto com o título "Aprendizado de máquina aplicado ao suporte à triagem de pacientes suspeitos de tuberculose pulmonar" desenvolvido como parte dos requisitos necessários à obtenção do título de Engenheiro Eletrônico e de Computação.
 
 Este trabalho compreende o desenvolvimento de um modelo computacional baseado em Aprendizado de Máquina para atuar como um Sistema de Apoio à Decisão (SAD) que auxilie a triagem de pacientes com suspeita de tuberculose pulmonar. A proposta é que o SAD, a partir de dados coletados durante a rotina de triagem do paciente, seja capaz de indicar a possibilidade do mesmo ser portador de tuberculose pulmonar. 
 
