@@ -18,7 +18,7 @@ Palavras-Chave: Detecção de tuberculose, Aprendizado de Máquina, Aprendizado 
 
 # Atualizações
 
-Este projeto foi realizado no ano de 2018, e desejo incorporar novas abordagens e incorporá-las aqui. 
+Este projeto foi realizado no ano de 2018, e desejo explorar novas abordagens para o problema e descreve-las neste repositório. 
 
 ## Documents
 
