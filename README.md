@@ -33,7 +33,7 @@ Resultado dos modelos obtidos até o momento:
 
 # Documentos
 
-Link para o projeto de graduação (Texto entregue à UFRJ) [**Projeto de Graduação**](http://monografias.poli.ufrj.br/monografiadownload.php?farquivo=monopoli10028305.pdf&fcodigo=4030). 
+Link para o projeto de graduação - [(Texto entregue à UFRJ)](http://monografias.poli.ufrj.br/monografiadownload.php?farquivo=monopoli10028305.pdf&fcodigo=4030). 
 
 
 
