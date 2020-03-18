@@ -16,13 +16,24 @@ Este trabalho propõe analisar o desempenho de técnicas baseadas em aprendizado
 
 Palavras-Chave: Detecção de tuberculose, Aprendizado de Máquina, Aprendizado Supervisionado, Sistemas de Apoio à Decisão.
 
+
 # Atualizações
 
 Este projeto foi realizado no ano de 2018, onde somente cinco modelos foram explorados no texto: Regressão Logística, Árvores de decisão, Floresta Aleatória (Random Forest), Redes Neurais e k-NN (k-Nearest Neighbors). Retomando como exercício este projeto, desejo explorar novas abordagens para o problema e descrevê-las neste repositório.
 
-## Documents
+# Resultados
 
-Link to the project (in portuguese): [**Projeto de Graduação**](http://monografias.poli.ufrj.br/monografiadownload.php?farquivo=monopoli10028305.pdf&fcodigo=4030). 
+Resultado dos modelos obtidos até o momento:
+
+* Regressão Logística:
+* Árvores de Decisão:
+* Random Forest:
+* k-NN:
+* Rede Neural:
+
+# Documentos
+
+Link para o projeto de graduação (Texto entregue à UFRJ) [**Projeto de Graduação**](http://monografias.poli.ufrj.br/monografiadownload.php?farquivo=monopoli10028305.pdf&fcodigo=4030). 
 
 
 
