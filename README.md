@@ -1,10 +1,8 @@
 # Introdução
 
-Projeto com o título "Aprendizado de máquina aplicado ao suporte à triagem de pacientes suspeitos de tuberculose pulmonar" desenvolvido como parte dos requisitos necessários à obtenção do título de Engenheiro Eletrônico e de Computação da Universidade Federal do Rio de Janeiro.
+Projeto com o título "Aprendizado de máquina aplicado ao suporte à triagem de pacientes suspeitos de tuberculose pulmonar", desenvolvido como parte dos requisitos necessários à obtenção do título de Engenheiro Eletrônico e de Computação da Universidade Federal do Rio de Janeiro.
 
-Este trabalho compreende o desenvolvimento de um modelo computacional baseado em Aprendizado de Máquina para atuar como um Sistema de Apoio à Decisão (SAD) que auxilie a triagem de pacientes com suspeita de tuberculose pulmonar. A proposta é que o SAD, a partir de dados coletados durante a rotina de triagem do paciente, seja capaz de indicar a possibilidade do mesmo ser portador de tuberculose pulmonar. 
-
-O objetivo principal do trabalho é criar um SAD para triagem de pacientes com suspeita de tuberculose pulmonar. Para se atingir tal objetivo, serão utilizados dados clínicos de pacientes com suspeita de tuberculose pulmonar, aplicados a um modelo computacional, cuja tarefa é classificar o paciente como provável portador de tuberculose ou não. Serão avaliados algoritmos baseados em Aprendizado de Máquina para a criação de tal modelo, utilizando como figura de mérito a área sob a curva ROC (AUC). Os modelos são escolhidos a partir do escore AUC e com a utilização de testes estatísticos.
+Este trabalho compreende o desenvolvimento de um modelo computacional baseado em Aprendizado de Máquina para atuar como um Sistema de Apoio à Decisão (SAD) no auxílio à triagem de pacientes com suspeita de tuberculose pulmonar. A proposta é que o SAD, a partir de dados coletados durante a rotina de triagem do paciente, seja capaz de indicar a possibilidade do mesmo ser portador de tuberculose pulmonar. Serão avaliados algoritmos baseados em Aprendizado de Máquina utilizando como figura de mérito a área sob a curva ROC (AUC). Os modelos são escolhidos a partir do escore AUC e as performances são comparadas a partir do uso de testes estatísticos.
 
 # Resumo 
 
@@ -24,11 +22,18 @@ Este projeto foi realizado no ano de 2018, onde somente cinco modelos foram expl
 
 Resultado dos modelos obtidos até o momento:
 
+### Modelos avaliados em 2018
+
 * Regressão Logística:
 * Árvores de Decisão:
 * Random Forest:
 * k-NN:
 * Rede Neural:
+
+### Novos modelos
+
+* One-Class Support Vector Machines
+* fdsa
 
 # Documentos
 
