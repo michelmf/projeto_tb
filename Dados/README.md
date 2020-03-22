@@ -4,7 +4,9 @@ Este projeto utilizou o conjunto de dados de pacientes coletados na Policlínica
 
 A base é composta por 4381 exemplos descritos por 281 atributos, tais como: idade, sexo, peso, sintomas presentes, diagnóstico final sobre a doença, bem como datas de diversos exames realizados, os nomes dos enfermeiros encarregados de realizarem determinados procedimentos, entre muitas outras informações, como endereço dos pacientes e outras informações pessoais. Devido à restrições dos dados por causa da pesquisa, os mesmos não podem ser disponibilizados nesse repositório.
 
-Dentre os 4381 exemplos presentes, 871 pacientes foram diagnosticados com tuberculose, 1856 pacientes diagnosticados como não possuindo a doença, e 1654 pacientes não tiveram conclusões sobre o desfecho da doença, seja por abandono de acompanhamento ou outros. Assim, trata-se de uma base com as classes desbalanceadas, onde 2727 exemplos possuem diagnósticos confirmados pelos profissionais envolvidos na pesquisa, dos quais aproximadamente 68% dos casos possuem desfecho negativo, e 32% dos casos sendo confirmados como positivo. Percebe-se que a quantidade de exemplos que possuem desfecho é de aproximidadamente o dobro daqueles diagnosticados como positivos.
+Dentre os 4381 exemplos presentes, 871 pacientes foram diagnosticados com tuberculose, 1856 pacientes diagnosticados como não possuindo a doença, e 1654 pacientes não tiveram conclusões sobre o desfecho da doença, seja por abandono de acompanhamento ou outros. Assim, trata-se de uma base com as classes desbalanceadas, onde 2727 exemplos possuem diagnósticos confirmados pelos profissionais envolvidos na pesquisa, dos quais aproximadamente 68% dos casos possuem desfecho negativo, e 32% dos casos sendo confirmados como positivo. Percebe-se que a quantidade de exemplos que possuem desfecho é de aproximidadamente o dobro daqueles diagnosticados como positivos. 
+
+Durante o desenvolvimento do projeto de graduação, os modelos utlizaram somente os dados confirmados sobre os pacientes (casos confirmados de TB x casos sem a doença), em uma abordagem de aprendizado supervisionado.
 
 ## Resumo dos dados
 
